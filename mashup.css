@@ -365,6 +365,17 @@ button:hover{
 }
 
 
+@media screen and (max-width: 800px){
+    .work{
+        width: 80%;
+    }  
+}
+
+@media screen and (max-width: 350px){
+    .landingpage a{
+    font-size: 8vh;
+    }
+}
 /* @media screen and (max-width: 900px){
 	
 	.aboutImg{
