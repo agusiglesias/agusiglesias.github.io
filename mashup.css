@@ -167,7 +167,9 @@ nav{
 }
 
 .cv-info{
-	width: 65%
+	width: 65%;
+	display: flex;
+    	flex-direction: column;
 }
 
 .cv-section, .cv-info{
