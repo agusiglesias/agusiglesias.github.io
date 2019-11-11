@@ -289,18 +289,15 @@ button:hover{
 		clip-path: circle(1100px at 90% -7%);
 		-webkit-clip-path: circle(1100px at 90%; -7%);
 	}
-}
-
-@media screen and (max-width: 1100px){
 
 	.landingpage{
 	height: 50vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-    border-bottom: 2px dotted black;
+    	border-bottom: 2px dotted black;
 
-}
+	}
 
 	.landingpage a{
 		font-size: 3em;
@@ -312,17 +309,7 @@ button:hover{
     }
     
     .work{
-        width: 100%;
-    }
-    
-    .work img{
-        width: 85%;
-        padding: 20px 0;
-    }
-    
-    .work-description{
-        font-size: 16px;
-        text-align: center;
+        width: 70%;
     }
 
     .cv{
@@ -356,7 +343,6 @@ button:hover{
     }
 }
 
-
 @media screen and (max-width: 800px){
     .work{
         width: 80%;
@@ -365,8 +351,11 @@ button:hover{
 
 @media screen and (max-width: 350px){
     .landingpage a{
-    font-size: 8vh;
+    	font-size: 8vh;
     }
+	.work{
+	width: 100%;
+	}	
 }
 /* @media screen and (max-width: 900px){
 	
