@@ -337,9 +337,6 @@ button:hover{
     .cv-info{
         text-align: center;
     }
-    .contact-box{
-        width: 90%;        
-    }
 }
 
 @media screen and (max-width: 800px){
