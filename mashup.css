@@ -8,7 +8,6 @@ body{
 	font-family: 'Helvetica';
 }
 
-
 nav{
 	height: 10vh;
 	background: #eee;
@@ -130,7 +129,7 @@ nav{
 .work-description{
 	padding: 10px;
 	width: 75%;
-	text-alig: center;
+	text-align: center;
 }
 
 .work h3:hover{
