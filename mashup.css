@@ -131,9 +131,14 @@ ul{
 }
 
 .work-description{
-	padding: 10px;
-	width: 75%;
-	text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.work-description li{
+   float: left;
+    padding-left: 10px;
+    font-size: 20px;
 }
 
 .work h3:hover{
