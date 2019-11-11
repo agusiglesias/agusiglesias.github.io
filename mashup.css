@@ -106,6 +106,7 @@ nav{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	margin: 50px 0;
 }
 
 .work{
@@ -116,7 +117,7 @@ nav{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-    	width: 650px;
+    	width: 60%;
 }
 
 .work h3{
@@ -128,6 +129,8 @@ nav{
 
 .work-description{
 	padding: 10px;
+	width: 75%;
+	text-alig: center;
 }
 
 .work h3:hover{
@@ -135,7 +138,7 @@ nav{
 }
 
 .work img{
-	width: 500px;
+	width: 100%;
 	filter: grayscale(1);
 }
 
