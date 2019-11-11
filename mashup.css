@@ -96,21 +96,16 @@ nav{
 
 /* WORKS */
 
-
-.works-content a{
-	margin: 5px;
-	padding: 5px;
-	background: black;
-	color: white;
-	text-decoration: none;
+.works{
+    margin: 50px 0;
+    padding: 20px 0;
 }
 
 .works-content{
-    display: flex;
+    	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-
 }
 
 .work{
@@ -121,20 +116,21 @@ nav{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-    width: 650px;
+    	width: 650px;
 }
 
-.work a{
+.work h3{
 	text-decoration: none;
 	background: yellow;
-	color: black;
+	font-weight: 400;
+	margin: 10px;
 }
 
 .work-description{
 	padding: 10px;
 }
 
-.work a:hover{
+.work h3:hover{
 	text-decoration: line-through;
 }
 
