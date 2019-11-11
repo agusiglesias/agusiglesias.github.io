@@ -64,6 +64,10 @@ nav{
 	margin: 20px;
 }
 
+ul{
+    list-style: none;
+}
+
 /* ABOUT */
 
 .about{
