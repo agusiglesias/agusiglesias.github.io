@@ -3,6 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
 body{
 	background: #eee;
 	font-family: 'Helvetica';
@@ -229,7 +230,6 @@ textarea{
 	font-size: 1.4em;
     margin-bottom: 10px;
     border: 1px solid gray;
-
 }
 
 button{
@@ -362,9 +362,15 @@ button:hover{
 }
 
 @media screen and (max-width: 800px){
+     body{
+         maring: 0px;
+         padding: 0px;
+        }
+        
     .work{
         width: 80%;
-    }  
+    }
+
 }
 
 @media screen and (max-width: 350px){
