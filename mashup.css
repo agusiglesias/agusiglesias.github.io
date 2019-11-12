@@ -373,10 +373,11 @@ button:hover{
 	
 	.cv-section, .cv-info{
 	padding: 10px 0;	
-}
-
-		
+	}
 	
+	.cv-info li{
+		padding: 2.5px 0;
+	}
 }
 
 @media screen and (max-width: 350px){
