@@ -187,10 +187,6 @@ ul{
     	flex-direction: column;
 }
 
-.cv-info li{
-	padding: 5px;
-}
-
 .cv-section, .cv-info{
 	padding: 20px 0;	
 }
@@ -374,6 +370,11 @@ button:hover{
     .work{
         width: 80%;
     }
+	
+	.cv-section, .cv-info{
+	padding: 10px 0;	
+}
+
 		
 	
 }
