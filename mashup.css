@@ -387,6 +387,10 @@ button:hover{
 		padding: 10px 0;
 	}
     
+	.work-description li{
+		font-size 12;
+	}
+	
     .work-description{
        font-size: 12px; 
     }
