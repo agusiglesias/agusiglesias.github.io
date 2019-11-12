@@ -370,7 +370,9 @@ button:hover{
     .work{
         width: 80%;
     }
-
+	
+	
+	
 }
 
 @media screen and (max-width: 350px){
@@ -378,8 +380,12 @@ button:hover{
     	font-size: 8vh;
     }
 	.work{
-	width: 100%;
-	}	
+	    width: 100%;
+	}
+    
+    .work-description{
+       font-size: 12px; 
+    }
 }
 /* @media screen and (max-width: 900px){
 	
