@@ -156,6 +156,7 @@ ul{
 
 
 /* CV*/
+
 .cv{
     margin: 50px 0;
     padding: 20px 0;
@@ -345,7 +346,7 @@ button:hover{
     }
     
     .cv-section{
-        padding: 10px 0;
+        padding: 20px;
         font-size: 20px;
         width: 100%;
         text-align: center;
