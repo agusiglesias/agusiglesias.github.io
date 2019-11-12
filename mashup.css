@@ -60,7 +60,7 @@ nav{
 }
 
 .section-title{
-	font-size: 5.5em;
+	font-size: 10vh;
 	margin: 20px;
 }
 
@@ -162,10 +162,12 @@ ul{
 }
 
 .cv-resume{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+	maring: 20px 0;
+    	display: flex;
+    	flex-direction: column;
+    	align-items: center;
 }
+
 .cv-layout{
 	display: flex;
 	justify-content: space-between;
@@ -332,8 +334,7 @@ button:hover{
         margin: 0;
         padding-bottom: 50px;
     }
-    
-    
+       
     .cv-layout{
         display: flex;
         flex-direction: column;
