@@ -187,6 +187,10 @@ ul{
     	flex-direction: column;
 }
 
+.cv-info li{
+	padding: 5px;
+}
+
 .cv-section, .cv-info{
 	padding: 20px 0;	
 }
